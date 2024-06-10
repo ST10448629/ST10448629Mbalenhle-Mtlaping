@@ -43,4 +43,30 @@ The UI design focuses on simplicity and clarity, presenting information in a str
 
 
                                                              Pseudocode:
+                                                      
+
+Start 
+
+           Declarations: 
+
+           Int Average temperature “25”, “26”, “24”, “12”, “28”, “23”,”24” 
+
+          String week “Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”, “Saturday”, “Sunday” 
+
+           Output “please enter an average temperature for Monday” 
+
+          Input min 12 / max 25 
+
+          If average for Monday is < 25 
+
+         Then weather condition = sunny 
+
+         If weather condition for Monday is >10 
+
+        Then condition not found 
+
+       Please enter a valid average temperature  
+
+Stop 
+
 
