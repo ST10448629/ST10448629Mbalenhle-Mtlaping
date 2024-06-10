@@ -69,7 +69,7 @@ Start
 
 Stop 
 
-                                                                                Reference:
+                                                                                
   Refrences: GitHub Documentation. (2022) tools4dev. Available at: https://tools4dev.org/resources/how-to-design-a-new-program/ (Accessed: 2024/04/05). What is GitHub and how to use it?. (Dec 14, 2023). Title of the page. Available at: (https://www.geeksforgeeks.org/what-is-github-and-how-to-use-it/)] (Accessed: 2024/04/05). 10 Fundamental UI Design Principles You Need to Know. (December 06, 2021).. Available at: [URL]https://dribbble.com/resources/ui-design-principles (Accessed: 2024/04/05).
 
 
